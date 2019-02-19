@@ -1,2 +1,2 @@
-# Aarabic
-Aarabic
+# Aarabic-bot
+discordyou23
